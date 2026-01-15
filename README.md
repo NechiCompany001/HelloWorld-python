@@ -1,2 +1,2 @@
-# HelloWorld-python
-Hello World
+# Simple Hello, World Project
+*Hi!*
